@@ -1,8 +1,6 @@
 ## Selected Publications
 
-
-
-### Active Federated Learning [PDF](https://arxiv.org/pdf/1909.12641.pdf)
+### Active Federated Learning [(PDF)](https://arxiv.org/pdf/1909.12641.pdf)
 
 ```
 @inproceedings{Goetz+19,
@@ -14,7 +12,7 @@
  ```
 
 
-### OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs [PDF](https://www.aclweb.org/anthology/P19-1081)
+### OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs [(PDF)](https://www.aclweb.org/anthology/P19-1081)
 ```
 @inproceedings{Moon+19a,
   author    = {Seungwhan Moon, Pararth Shah, Anuj Kumar, Rajen Subba}, 
@@ -24,7 +22,7 @@
  }
 ```
 
-### Zeroshot Multimodal Named Entity Disambiguation for Short Social Media Posts [PDF](https://aclweb.org/anthology/P18-1186)
+### Zeroshot Multimodal Named Entity Disambiguation for Short Social Media Posts [(PDF)](https://aclweb.org/anthology/P18-1186)
 ```
 @inproceedings{Moon+18b,
   author    = {Seungwhan Moon, Leonardo Neves, Vitor Carvalho}, 
@@ -34,7 +32,7 @@
  }
 ```
 
-###  Multimodal Named Entity Recognition for Noisy Social Media Posts [PDF](https://arxiv.org/pdf/1802.07862.pdf)
+###  Multimodal Named Entity Recognition for Noisy Social Media Posts [(PDF)](https://arxiv.org/pdf/1802.07862.pdf)
 ```
 @inproceedings{Moon+18a,
   author    = {Seungwhan Moon, Leonardo Neves, Vitor Carvalho}, 
@@ -44,7 +42,7 @@
  }
 ```
 
-### Learn to Active Learn: Dynamic Active Learning with Attention-based Strategies Selection [PDF](/papers/Moon+18c.pdf)
+### Learn to Active Learn: Dynamic Active Learning with Attention-based Strategies Selection [(PDF)](/papers/Moon+18c.pdf)
 ```
 @inproceedings{Moon+18c,
   author    = {Seungwhan Moon, Jaime Carbonell}, 
@@ -54,7 +52,7 @@
  }
 ```
 
-### Proactive Transfer Learning [PDF](/papers/Moon+thesis)
+### Proactive Transfer Learning [(PDF)](/papers/Moon+thesis)
 ```
 @article{Moon+thesis,
   author    = {Seungwhan Moon}, 
@@ -63,7 +61,7 @@
  }
 ```
 
-### Completely Heterogeneous Transfer Learning with Attention - What And What Not To Transfer [PDF](https://www.ijcai.org/proceedings/2017/0349.pdf)
+### Completely Heterogeneous Transfer Learning with Attention - What And What Not To Transfer [(PDF)](https://www.ijcai.org/proceedings/2017/0349.pdf)
 ```
 @inproceedings{Moon+17a,
   author    = {Seungwhan Moon, Jaime Carbonell}, 
@@ -76,7 +74,7 @@
 }
 ```
 
-### Proactive Transfer Learning for Heterogeneous Feature and Label Spaces [PDF](/papers/Moon+16a)
+### Proactive Transfer Learning for Heterogeneous Feature and Label Spaces [(PDF)](/papers/Moon+16a)
 ```
 @Inbook{Moon+16a,
   author='Moon, Seungwhan and Carbonell, Jaime',
@@ -93,7 +91,7 @@
 }
 ```
 
-### Metaphor Detection Using Topic Transition, Emotion and Cognition in Context [PDF](https://www.aclweb.org/anthology/P/P16/P16-1021.pdf)
+### Metaphor Detection Using Topic Transition, Emotion and Cognition in Context [(PDF)](https://www.aclweb.org/anthology/P/P16/P16-1021.pdf)
 ```
 @inproceedings{Jang+16,
   Author    =  {Hyeju Jang and Yohan Jo and Qinlan Shen and Michael Miller and Seungwhan Moon and Carolyn Rose},
@@ -103,7 +101,7 @@
 }
 ```
 
-### Multimodal Transfer Deep Learning with Applications in Audio-Visual Recognition [PDF](/papers/Moon+15a)
+### Multimodal Transfer Deep Learning with Applications in Audio-Visual Recognition [(PDF)](/papers/Moon+15a)
 ```
 @inproceedings{Moon+15a,
   Author    = {Seungwhan Moon and Suyoun Kim and Haohan Wang},
@@ -112,7 +110,7 @@
   Year      = 2015}
 ```
 
-### Joint Photo Stream and Blog Post Summarization and Exploration [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Joint_Photo_Stream_2015_CVPR_paper.pdf)
+### Joint Photo Stream and Blog Post Summarization and Exploration [(PDF)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Joint_Photo_Stream_2015_CVPR_paper.pdf)
 ```
 @inproceedings{gunhee-cvpr-15-blogstory,
   Author    =	 {Gunhee Kim and Seungwhan Moon and Leonid Sigal},
@@ -121,7 +119,7 @@
   Year      =	 2015}
 ```
 
-### Ranking and Retrieval of Image Sequences from Multiple Paragraph Queries [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Ranking_and_Retrieval_2015_CVPR_paper.pdf)
+### Ranking and Retrieval of Image Sequences from Multiple Paragraph Queries [(PDF)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Ranking_and_Retrieval_2015_CVPR_paper.pdf)
 ```
 @inproceedings{gunhee-cvpr-15-text2pic,
   Author    =	 {Gunhee Kim and Seungwhan Moon and Leonid Sigal},
@@ -130,7 +128,7 @@
   Year      =	 2015}
 ```
 
-### Metaphor Detection in Discourse [PDF](https://www.aclweb.org/anthology/W/W15/W15-4650.pdf)
+### Metaphor Detection in Discourse [(PDF)](https://www.aclweb.org/anthology/W/W15/W15-4650.pdf)
 ```
 @inproceedings{Jang+15,  
   title={Metaphor Detection in Discourse},  
@@ -140,7 +138,7 @@
   year={2015}}
 ```
 
-### Identifying Student Leaders from MOOC Discussion Forums through Language Influence [PDF](/papers/Moon+14b)
+### Identifying Student Leaders from MOOC Discussion Forums through Language Influence [(PDF)](/papers/Moon+14b)
 ```
 @article{Moon+14b, 
   author  = {Moon, Seungwhan and Potdar, Saloni and Martin, Lara}, 
